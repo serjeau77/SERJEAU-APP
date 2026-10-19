@@ -1,0 +1,6 @@
+{
+  "name": "SERJEAU — Sistema de Toma de Decisiones y Rentabilidad",
+  "description": "Plataforma operativa y financiera basada en el Flujograma de Toma de Decisiones de SERJEAU Transporte Especial para evaluar servicios, cotizar costos, controlar la flota (5 Logans, 2 Dusters, 1 Van) y maximizar la utilidad real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
